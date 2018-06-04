@@ -6,22 +6,22 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "assets/icons/launcher-icon-1x.png",
+      "src": "assets/icon1.png",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "assets/icons/launcher-icon-2x.png",
+      "src": "assets/icon2.png",
       "type": "image/png",
       "sizes": "96x96"
     },
     {
-      "src": "assets/icons/launcher-icon-3x.png",
+      "src": "assets/icon3.png",
       "type": "image/png",
       "sizes": "144x144"
     },
     {
-      "src": "assets/icons/launcher-icon-4x.png",
+      "src": "assets/icon4.png",
       "type": "image/png",
       "sizes": "192x192"
     }
